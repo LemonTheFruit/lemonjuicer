@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import lemon from './lemon.svg';
 import './App.css';
 import React, { useState } from 'react';
@@ -23,6 +22,7 @@ function App() {
         </p>
         <p>{message}</p>
       </header>
+      <body></body>
     </div>
   );
 }
