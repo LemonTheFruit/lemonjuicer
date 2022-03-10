@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lemonjuicer/static/css/main.d32de12e.css",
+    "main.js": "/lemonjuicer/static/js/main.46274680.js",
+    "static/js/787.f2162189.chunk.js": "/lemonjuicer/static/js/787.f2162189.chunk.js",
+    "static/media/logo.svg": "/lemonjuicer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/lemon.svg": "/lemonjuicer/static/media/lemon.6600c217fc6fc4afd722d136be27b239.svg",
+    "index.html": "/lemonjuicer/index.html",
+    "main.d32de12e.css.map": "/lemonjuicer/static/css/main.d32de12e.css.map",
+    "main.46274680.js.map": "/lemonjuicer/static/js/main.46274680.js.map",
+    "787.f2162189.chunk.js.map": "/lemonjuicer/static/js/787.f2162189.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d32de12e.css",
+    "static/js/main.46274680.js"
+  ]
+}
