@@ -36,7 +36,7 @@ function App() {
         <p>
           You have juiced {count} lemons.
         </p>
-        <p class="pop-in-message">
+        <p class="fade-in-text">
           {message}
         </p>
       </header>
