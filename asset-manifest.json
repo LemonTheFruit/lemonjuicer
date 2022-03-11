@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lemonjuicer/static/css/main.db06a4fb.css",
-    "main.js": "/lemonjuicer/static/js/main.f7749601.js",
+    "main.js": "/lemonjuicer/static/js/main.12bf5edd.js",
     "static/js/787.f2162189.chunk.js": "/lemonjuicer/static/js/787.f2162189.chunk.js",
     "static/media/lemon.svg": "/lemonjuicer/static/media/lemon.6600c217fc6fc4afd722d136be27b239.svg",
     "index.html": "/lemonjuicer/index.html",
     "main.db06a4fb.css.map": "/lemonjuicer/static/css/main.db06a4fb.css.map",
-    "main.f7749601.js.map": "/lemonjuicer/static/js/main.f7749601.js.map",
+    "main.12bf5edd.js.map": "/lemonjuicer/static/js/main.12bf5edd.js.map",
     "787.f2162189.chunk.js.map": "/lemonjuicer/static/js/787.f2162189.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db06a4fb.css",
-    "static/js/main.f7749601.js"
+    "static/js/main.12bf5edd.js"
   ]
 }
