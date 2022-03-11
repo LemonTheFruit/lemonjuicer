@@ -1,6 +1,7 @@
 import lemon from './lemon.svg';
 import './App.css';
 import React, { useState } from 'react';
+import { Shake } from 'reshake'
 
 
 
@@ -18,13 +19,27 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-        <button onClick={incrementCount}><img src={lemon} className="App-logo" alt="logo" /></button>
+        <button onClick={incrementCount}>
+          <Shake 
+            h={0}
+            v={0}
+            r={360}
+            dur={300}
+            int={63.4}
+            max={100}
+            fixed={true}
+            fixedStop={false}
+            freez={false}>
+              <img src={lemon} className="App-logo" alt="logo" />
+          </Shake>
+        </button>
         <p>
           You have juiced {count} lemons.
         </p>
-        <p>{message}</p>
+        <p class="pop-in-message">
+          {message}
+        </p>
       </header>
-      <body></body>
     </div>
   );
 }
