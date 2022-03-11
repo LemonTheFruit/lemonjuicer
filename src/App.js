@@ -12,7 +12,7 @@ function App() {
   const incrementCount = () => { 
     setCount(count + 1);
    }
-   if (count === 0){ message = "Welcome! Click the lemon to begin juicing." }
+   if (count === 0){ message = "Click the lemon to begin juicing." }
    if (count === 18){ message = "You've juiced enough lemons for a gallon of lemonade!"}
    
   return (
